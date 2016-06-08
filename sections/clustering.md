@@ -1,4 +1,4 @@
-### Understanding a Hadoop Cluster
+## A Hadoop Cluster
 
 
 There are three main types of machine involved:
@@ -59,3 +59,12 @@ Note: Like pretty much every other cluster
 
 * Communicates to the ResourceManager
 * Describes what the machine can offer
+
+
+How did we set it up?
+
+
+![Hadoop Cluster](images/Hadoop-multi-node-cluster_tutorial-structure.png)
+
+
+![Hadoop Overview](images/Hadoop-multi-node-cluster-overview.png)
