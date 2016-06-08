@@ -99,3 +99,11 @@ comes out
 ...
 </code>
 </pre>
+
+Note: Or, if you're a visual person
+
+
+![MapReduce](images/map-reduce-example.png)
+
+
+So how do we actually make this happen?
